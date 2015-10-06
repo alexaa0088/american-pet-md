@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require prefixfree-rails/prefixfree
 //= require turbolinks
 //= require bootstrap-sprockets
 //= require_tree .
